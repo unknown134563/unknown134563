@@ -1,0 +1,58 @@
+/**
+ * @name ghoul
+ * @author ghoul
+ * @version 0.1
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=fraktur+bold:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.pinimg.com/236x/e9/f1/18/e9f118d954ad07149f14ea752509696f.jpg');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.pinimg.com/236x/0f/f1/13/0ff113523bf9ba6bddab9a397ffbf47e.jpg');
+  --popout-image-blur: 8px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.pinimg.com/236x/f6/dc/7b/f6dc7b6d0a037a78a6cc8d7f6a090418.jpg');
+  --overlay-image-blur: 9px;
+  --overlay-image-size: 100%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.pinimg.com/236x/f6/dc/7b/f6dc7b6d0a037a78a6cc8d7f6a090418.jpg');
+  --home-button-size: 200%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.48;
+  --left-brightness: 0.48;
+  --middle-brightness: 0.48;
+  --right-brightness: 0.48;
+  --overlay-brightness: 0.48;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #32A8D6;
+  --scrollbar-colour: rgb(77,1,1,0.05);
+  --gradient-direction: 217deg;
+  --tint-colour: 11,7,9;
+  --tint-brightness: 0.26;
+  --font: fraktur bold;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
